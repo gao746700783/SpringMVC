@@ -105,4 +105,10 @@ public class MainController {
     public String test() {
         return "test";
     }
+
+    // 首页
+    @RequestMapping(value = "/test2", method = RequestMethod.GET)
+    public String test2() {
+        return "test_admin";
+    }
 }
