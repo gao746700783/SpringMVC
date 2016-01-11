@@ -99,4 +99,10 @@ public class MainController {
         userRepository.flush();
         return "redirect:/users";
     }
+
+    // 首页
+    @RequestMapping(value = "/test", method = RequestMethod.GET)
+    public String test() {
+        return "test";
+    }
 }
