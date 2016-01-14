@@ -96,9 +96,9 @@
 ## 模块三名称
 
 ## ScreenShot
-![](https://raw.githubusercontent.com/gao746700783/SpringMVC/tree/master/images/list.jpg)
-![](https://raw.githubusercontent.com/gao746700783/SpringMVC/tree/master/images/add.jpg)
-![](https://raw.githubusercontent.com/gao746700783/SpringMVC/tree/master/images/update.jpg)
+![](https://raw.githubusercontent.com/gao746700783/SpringMVC/master/images/list.jpg)
+![](https://raw.githubusercontent.com/gao746700783/SpringMVC/master/images/add.jpg)
+![](https://raw.githubusercontent.com/gao746700783/SpringMVC/master/images/update.jpg)
 ![](https://raw.githubusercontent.com/gao746700783/SpringMVC/master/images/view.jpg)
 
 ## About Me
